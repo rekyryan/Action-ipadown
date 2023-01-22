@@ -1,4 +1,4 @@
-# action-ipadown
+# Action ipadown
 
 Download old versions of app using Github Actions, without computers!
 
